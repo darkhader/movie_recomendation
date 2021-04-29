@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+assignment.pdf
+Building_A_Movie_Recommendation_Engine.pdf
+Assignment Solution.ipynb
+cosine_similarity.py
+Movie_Recommendation_Engine.ipynb
+movie_recommender_completed.py
+movie_recommender_starter.py
 # C extensions
 *.so
 
